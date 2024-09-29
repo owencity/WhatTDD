@@ -1,4 +1,4 @@
-package com.example.whattdd.chap02.password;
+package com.example.whattdd.chap02.passwordMeter;
 
 public class PasswordStrengthMeter {
 
