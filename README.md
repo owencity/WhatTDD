@@ -6,10 +6,9 @@
 - 이 프로젝트는 테스트 주도 개발(TDD)에 대해 학습하고 연습하는 것을 목표로 합니다.
 
 ## 📚 목차
-[github 정리](https://github.com/owencity/WhatTDD/tree/main/src/test/java/com/example/whattdd)
 
 1. [챕터 1: 개발준비]
-2. [챕터 2: TDD 시작]
+2. [챕터 2: TDD 시작](https://github.com/owencity/WhatTDD/tree/main/src/main/java/com/example/whattdd/chap02)
 3. [챕터 3: 테스트 코드 작성 순서]
 4. [챕터 4: TDD 기능 명세 설계]
 5. [챕터 5: JUnit 기초]
